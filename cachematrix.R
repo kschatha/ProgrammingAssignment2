@@ -1,6 +1,6 @@
 ## These 2 functions are used create a matrix and compute its inverse.
-## Before computing the inverse, its checked if the matrix's inverse is stored
-## the cache, and if yes then it is retrieved from cache else computed and stored
+## Before computing the inverse, its checked if the matrix's inverse is cached, 
+## and if yes then it is retrieved else it is computed and stored
 ## in cache.
 
 ## makeCacheMatrix function is used to create a matrix and store the inverse
